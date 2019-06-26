@@ -1,0 +1,26 @@
+[
+    {
+        "name": "ENGLISH",
+        "code": "en_us",
+        "translations": {
+            "configRead": "Configuration file read!",
+            "noCombos": "No combos to check!",
+            "combosLoaded": "combos loaded!",
+            "invalidCombo": "Invalid login!",
+            "validCombo": "Hit!",
+            "requestError": "There was an error with the request!"
+        }
+    },
+    {
+        "name": "ESPAÑOL",
+        "code": "es_MX",
+        "translations": {
+            "configRead": "Configuracion cargado!",
+            "noCombos": "No hay combos para checar!",
+            "combosLoaded": "combos cargados!",
+            "invalidCombo": "Credenciales invalidos!",
+            "validCombo": "Hit!",
+            "requestError": "Hubo un error con la solicitud!"
+        }
+    }
+]

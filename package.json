@@ -1,0 +1,16 @@
+{
+  "name": "flow-checker",
+  "version": "1.0.0",
+  "description": "Herramienta para checar cuentas web flow.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gringoguy",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "figlet": "^1.2.3",
+    "request": "^2.88.0"
+  }
+}
